@@ -3,7 +3,7 @@
 <suite verbose="0" name="Realize.insider" parallel="false">
     <test name="Fast_Suite">
         <classes>
-            <class name="mainPageTests.TC01"/>
+            <class name="searchingPageTests.TC01_SearchingBook"/>
         </classes>
     </test>
 </suite>

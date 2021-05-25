@@ -29,7 +29,7 @@ Main structure
 ├── src                     # Source files
 ├── test                    # Automated tests
 ├── testng.xml              # File for tests execution
-├── pom.xml					# Dependency and plugins
+├── pom.xml                 # Dependency and plugins
 └── README.md
 
 ```
@@ -53,6 +53,7 @@ Test files location
 /src/
 ├── ...
 ├── test                    
+│   └── DataProvider        # Data provider for tests
 │   └── Test                # UI tests for Selenium
 └── ...
 ```

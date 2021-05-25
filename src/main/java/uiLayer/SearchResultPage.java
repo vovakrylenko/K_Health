@@ -1,7 +1,6 @@
 package uiLayer;
 
 import core.BasePage;
-import core.Config;
 import junit.framework.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

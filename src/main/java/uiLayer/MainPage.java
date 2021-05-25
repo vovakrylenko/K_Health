@@ -1,7 +1,6 @@
 package uiLayer;
 
 import core.BasePage;
-import core.Config;
 import core.Driver;
 import junit.framework.Assert;
 import org.openqa.selenium.WebElement;

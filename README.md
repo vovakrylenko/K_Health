@@ -41,7 +41,7 @@ Java files location
 ├── ...
 ├── main                    
 │   ├── core          	    # @Test configurations, drivers settings, etc.
-│   └── ui_Layer            # Code for IU tests
+│   └── uiLayer             # Code for IU tests
 │                   
 └── testng.xml              # Сonfig file
 ...
@@ -53,8 +53,7 @@ Test files location
 /src/
 ├── ...
 ├── test                    
-│   └── Test                
-│       ├── UI_Tests        # UI tests for Selenium
+│   └── Test                # UI tests for Selenium
 └── ...
 ```
 

@@ -1,4 +1,4 @@
-package ui_Layer;
+package uiLayer;
 
 import core.BasePage;
 import core.Driver;

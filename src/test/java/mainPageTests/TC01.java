@@ -2,7 +2,7 @@ package mainPageTests;
 
 import core.BaseTest;
 import org.testng.annotations.Test;
-import ui_Layer.SearchResultPage;
+import uiLayer.SearchResultPage;
 
 public class TC01 extends BaseTest {
 

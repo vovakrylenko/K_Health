@@ -15,6 +15,15 @@ public class DataDrivenClass {
         data.add(new Object[]{Config.getProperty("test.value"), "[!@#$%^&*]", Config.getProperty("test.number")});
         return data.iterator();
     }
+
+    @DataProvider(name = "TC02_TestEmulator")
+    public static Iterator<Object[]> TC02_TestEmulator() {
+        List<Object[]> data = new ArrayList<>();
+        data.add(new Object[]{});
+        return data.iterator();
+    }
+
+
 }
 
 
